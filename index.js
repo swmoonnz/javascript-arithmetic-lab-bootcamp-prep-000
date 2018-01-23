@@ -13,4 +13,6 @@ function divide(a, b) {
   return a / b
 }
 
-var n =
+function inc(n) {
+  return n ++
+}
